@@ -39,7 +39,7 @@ The following 11 themes are available, each showcased in `theme-showcase.pdf` (e
 8. **Tech Innovation** - Bold and modern tech aesthetic
 9. **Botanical Garden** - Fresh and organic garden colors
 10. **Midnight Galaxy** - Dramatic and cosmic deep tones
-11. **Aptos Carbon** - Default Microsoft Aptos with IBM-Carbon-style multi-hue accents (custom)
+11. **Plex Carbon** - IBM Plex Sans with IBM-Carbon-style multi-hue accents (custom)
 
 ## Theme Details
 

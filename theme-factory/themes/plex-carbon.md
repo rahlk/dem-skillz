@@ -1,6 +1,6 @@
-# Aptos Carbon
+# Plex Carbon
 
-A clean, modern default-style theme pairing Microsoft's Aptos typeface with an IBM-Carbon-inspired multi-hue accent set. Neutral black/white base with saturated jewel-tone accents for charts, callouts, and category coding.
+A clean, modern theme pairing IBM's Plex Sans typeface with an IBM-Carbon-inspired multi-hue accent set. Neutral black/white base with saturated jewel-tone accents for charts, callouts, and category coding.
 
 ## Color Palette
 
@@ -19,8 +19,8 @@ A clean, modern default-style theme pairing Microsoft's Aptos typeface with an I
 
 ## Typography
 
-- **Headers**: Aptos Display (fallback: Aptos, Segoe UI, Calibri)
-- **Body Text**: Aptos (fallback: Segoe UI, Calibri)
+- **Headers**: IBM Plex Sans SemiBold (fallback: IBM Plex Sans, Helvetica Neue, Arial, sans-serif)
+- **Body Text**: IBM Plex Sans (fallback: Helvetica Neue, Arial, sans-serif)
 
 ## Visual Identity
 
@@ -59,11 +59,11 @@ Arrow labels sit beside the arrow, ~10-12pt, lowercase verb phrases.
 
 ### Typography roles within the diagram
 
-- **Component names:** Aptos Display Bold, 14-16pt, black, centered in the box.
-- **Sub-descriptions inside boxes:** Aptos Italic, 11-12pt, mid-gray (`#5A5A5A` or theme dark-2), centered below the name.
-- **Side caption lead-ins:** Aptos Bold, black, followed by a colon.
-- **Side caption body:** Aptos Regular, black, ~12pt, left-aligned in left gutter / right-aligned or left-aligned in right gutter (pick one and be consistent).
-- **Arrow labels:** Aptos Regular, color-matched to the arrow (blue or red-italic).
+- **Component names:** IBM Plex Sans Bold, 14-16pt, black, centered in the box.
+- **Sub-descriptions inside boxes:** IBM Plex Sans Italic, 11-12pt, mid-gray (`#5A5A5A` or theme dark-2), centered below the name.
+- **Side caption lead-ins:** IBM Plex Sans Bold, black, followed by a colon.
+- **Side caption body:** IBM Plex Sans Regular, black, ~12pt, left-aligned in left gutter / right-aligned or left-aligned in right gutter (pick one and be consistent).
+- **Arrow labels:** IBM Plex Sans Regular, color-matched to the arrow (blue or red-italic).
 
 ### Color discipline
 

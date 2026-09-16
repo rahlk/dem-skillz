@@ -1,0 +1,16 @@
+{
+  "name": "dem-skillz",
+  "description": "Personal skills marketplace: writing, diagramming, theming.",
+  "owner": {
+    "name": "Rahul Krishna",
+    "email": "i.m.ralk@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "orwell",
+      "source": "./orwell",
+      "description": "Plain English for all prose, with two registers on top: adhd for readers who must execute or navigate, academic for scholarly genres. Bundles the plain-english and simple-english skills (MIT, b1rdmania) and three output styles: orwell, adhd, academic.",
+      "version": "0.3.0"
+    }
+  ]
+}

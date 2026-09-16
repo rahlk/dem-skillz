@@ -1,0 +1,19 @@
+{
+  "name": "dem-skillz",
+  "interface": {
+    "displayName": "dem-skillz"
+  },
+  "plugins": [
+    {
+      "name": "orwell",
+      "source": {
+        "source": "local",
+        "path": "./orwell"
+      },
+      "policy": {
+        "installation": "AVAILABLE"
+      },
+      "category": "Writing"
+    }
+  ]
+}
